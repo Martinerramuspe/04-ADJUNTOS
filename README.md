@@ -19,3 +19,7 @@ axs[0].scatter(range(len(df['ingreso'])), min_max['ingreso'], s=10, color='purpl
 axs[0].set_xlabel('Índice')
 axs[0].set_ylabel('Ingreso')
 axs[0].set_title('Scatterplot de la variable Ingreso')
+```
+
+![](https://github.com/Martinerramuspe/PICTURE/blob/main/wifi.jpg)
+
